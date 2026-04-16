@@ -53,7 +53,7 @@ No es TDA ni TF: crea el centro y el camión, arma el bucle del **menú** y lee 
 
 ## Cómo ejecutar
 
-1. Abrí el proyecto en tu IDE (**IntelliJ IDEA**, **Cursor**, **VS Code** con extensión Java, **Eclipse**, etc.).
+1. Abrí el proyecto en tu IDE.
 2. Marcá la carpeta **`src`** como carpeta raíz de código fuente si el IDE no la detecta sola.
 3. Abrí **`structure.Main`** y **ejecutá / Run / Play** sobre esa clase (o “Run Main”). Con eso alcanza: se abre la consola y aparece el menú.
 
